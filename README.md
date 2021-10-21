@@ -64,3 +64,6 @@ X MapManager는 OpenLayers, Google Map, Kakao Map, Naver Map을 복잡한 설정
 * X MapManager의 지적 재산권은 epari에 있습니다.
 * X MapManager은 개인 및 기업 사용자를 포함한 모든 사용자에게 무료로 제공되며 자유롭게 사용 하실 수 있습니다.
 * X MapManager은 일부를 수정, 판매할 수 없으며 배포되는 형태 그대로 사용해야 합니다.
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgjbae1212%2Fhit-counter)](https://hits.seeyoufarm.com)
